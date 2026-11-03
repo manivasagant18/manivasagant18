@@ -25,7 +25,7 @@
 - 🌱 Experienced across the **full software development lifecycle** in Agile, cross-functional teams
 - 💡 Core strengths: REST API integration · Provider & BLoC state management · PostgreSQL · SharedPreferences · Geolocation services · PDF generation · Performance optimization
 - 🎨 UI craft: Responsive Design, Glassmorphism, Neumorphism, Claymorphism, Minimalist & Card-Based UI
-- 📫 Reach me at **tmanivasagan2001@gmail.com**
+- 📫 Reach me at **tmanivasagan18@gmail.com**
 
 ---
 
